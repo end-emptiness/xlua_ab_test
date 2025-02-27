@@ -1,0 +1,98 @@
+ManifestFileVersion: 0
+CRC: 231235414
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 490c9175189f3c3d0297144881b41c68
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d39b4245afdba812d3073344097ada3e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 490c9175189f3c3d0297144881b41c68
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ba60450c5a1202b41869d8ee7136c85f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c26c7a0dcd8138d4194e0a4435a4740c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ETCAxis
+- AssemblyName: Assembly-CSharp
+  ClassName: ETCButton/OnDownHandler
+- AssemblyName: Assembly-CSharp
+  ClassName: ETCButton/OnPressedHandler
+- AssemblyName: Assembly-CSharp
+  ClassName: ETCButton/OnPressedValueandler
+- AssemblyName: Assembly-CSharp
+  ClassName: ETCButton/OnUPHandler
+- AssemblyName: Assembly-CSharp
+  ClassName: ETCJoystick/OnDownDownHandler
+- AssemblyName: Assembly-CSharp
+  ClassName: ETCJoystick/OnDownLeftHandler
+- AssemblyName: Assembly-CSharp
+  ClassName: ETCJoystick/OnDownRightHandler
+- AssemblyName: Assembly-CSharp
+  ClassName: ETCJoystick/OnDownUpHandler
+- AssemblyName: Assembly-CSharp
+  ClassName: ETCJoystick/OnMoveEndHandler
+- AssemblyName: Assembly-CSharp
+  ClassName: ETCJoystick/OnMoveHandler
+- AssemblyName: Assembly-CSharp
+  ClassName: ETCJoystick/OnMoveSpeedHandler
+- AssemblyName: Assembly-CSharp
+  ClassName: ETCJoystick/OnMoveStartHandler
+- AssemblyName: Assembly-CSharp
+  ClassName: ETCJoystick/OnTouchStartHandler
+- AssemblyName: Assembly-CSharp
+  ClassName: ETCJoystick/OnTouchUpHandler
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/AssetsPackage/UI/Prefabs/UIBattle/UIBattleMain.prefab
+Dependencies: []

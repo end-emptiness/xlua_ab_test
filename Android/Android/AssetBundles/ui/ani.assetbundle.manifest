@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 457441981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebb69ed9f948bd17d0f00a7eaa5aa155
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ee737d6afc00fec93c1987e485ffa6bd
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ebb69ed9f948bd17d0f00a7eaa5aa155
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetsPackage/UI/Ani/ui_ani_main_btn_shark.anim
+- Assets/AssetsPackage/UI/Ani/ui_ani_TaskFinish.controller
+- Assets/AssetsPackage/UI/Ani/ui_ani_btn_onclick.anim
+- Assets/AssetsPackage/UI/Ani/ui_ani_btn_Scale.controller
+- Assets/AssetsPackage/UI/Ani/ui_ani_TaskFinish.anim
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1441934583
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4311db7440552415a26443489dfc1c24
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0df1dec30b5d061d422d3e6493d27647
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4311db7440552415a26443489dfc1c24
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetsPackage/Shaders/Model/Particles-Add-R.shader
+- Assets/AssetsPackage/Shaders/UI/T_UIParticle.shader
+- Assets/AssetsPackage/Shaders/Model/Particles-Add-RGBA.shader
+Dependencies: []

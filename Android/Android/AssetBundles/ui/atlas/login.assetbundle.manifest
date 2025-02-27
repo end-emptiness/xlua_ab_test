@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1660245248
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3233a2bac693d56c5b5bf0b763257f59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3233a2bac693d56c5b5bf0b763257f59
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetsPackage/UI/Atlas/Login/login2_05.png
+- Assets/AssetsPackage/UI/Atlas/Login/login2_06.png
+- Assets/AssetsPackage/UI/Atlas/Login/login2_08.png
+- Assets/AssetsPackage/UI/Atlas/Login/login2_11.png
+- Assets/AssetsPackage/UI/Atlas/Login/ui_comm_217_187_241.png
+- Assets/AssetsPackage/UI/Atlas/Login/login2_10.png
+- Assets/AssetsPackage/UI/Atlas/Login/login2_01.png
+Dependencies: []

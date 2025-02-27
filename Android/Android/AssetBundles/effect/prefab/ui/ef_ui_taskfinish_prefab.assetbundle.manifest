@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 3307849336
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c66976412a0194b96837c38ffdd3749e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4971bcbfc36ea43eff6f97f2cb21b587
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c66976412a0194b96837c38ffdd3749e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/AssetsPackage/Effect/Prefab/UI/ef_ui_TaskFinish.prefab
+Dependencies:
+- E:/UnityProject/xlua-framework-unity2018/AssetBundles/Android/Android/AssetBundles/shaders.assetbundle
+- E:/UnityProject/xlua-framework-unity2018/AssetBundles/Android/Android/AssetBundles/ui/ani.assetbundle

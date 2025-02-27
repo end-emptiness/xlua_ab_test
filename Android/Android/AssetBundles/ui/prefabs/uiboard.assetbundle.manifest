@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3384739244
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47ff42abc3ffdfc356c8180387712a9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3ed4b96a3dba24c6e635ac862224d4bd
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 47ff42abc3ffdfc356c8180387712a9a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetsPackage/UI/Prefabs/UIBoard/UIBoardPlayer.prefab
+- Assets/AssetsPackage/UI/Prefabs/UIBoard/UIBoardNPC.prefab
+Dependencies: []
